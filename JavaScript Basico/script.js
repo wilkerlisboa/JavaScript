@@ -51,3 +51,13 @@ var points =[
     {x: 0, y:0},
     {x:1,  y:0}
 ]
+
+var jhon = 'Johny costa gomes';
+var will = "Wilker Lisboa Soares Da Silva";
+var rob = 'Robert Costa Gomes Silva'
+
+document.write(jhon + "<br>");
+
+document.write(will + "<br>");
+
+document.write(rob + "<br>");
