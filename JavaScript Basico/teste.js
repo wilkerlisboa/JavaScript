@@ -38,5 +38,16 @@ document.write(MyArray[2] + "<br>");
 
 document.write(MyArray[3] + "<br>");
     
+    //INDICES ASSOCIATIVOS ARRAY
 
+    var estados = new Array();
+
+    estados['rj'] = "RIO DE JANEIRO";
+    estados['sp'] = "SÂO PAULO";
+    
+    document.write(estados['rj'] + '<br>');
+    
+    document.write(estados['sp'] + '<br>');
+    
+  
 
