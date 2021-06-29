@@ -40,14 +40,23 @@ document.write(MyArray[3] + "<br>");
     
     //INDICES ASSOCIATIVOS ARRAY
 
-    var estados = new Array();
+var estados = new Array();
 
-    estados['rj'] = "RIO DE JANEIRO";
-    estados['sp'] = "SÂO PAULO";
+estados['rj'] = "RIO DE JANEIRO";
+estados['sp'] = "SÂO PAULO";
     
-    document.write(estados['rj'] + '<br>');
+document.write(estados['rj'] + '<br>');
     
-    document.write(estados['sp'] + '<br>');
+document.write(estados['sp'] + '<br>');
     
+//EXERCICIOS 
+
+var nome = window.prompt("OLÁ QUAL É SEU NOME");
+    
+var age = window.prompt('OLÁ QUAL É SUA IDADE?');
+    
+document.write(`SEU NOME E: ${nome}` + '<br>')
+    
+document.write(`SUA IDADE E: ${age} ANOS `);
   
 
