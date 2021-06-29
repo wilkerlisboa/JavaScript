@@ -12,5 +12,14 @@ var verdadeiro = true;
 
 var falso = false;
 
+//Exercicios 
+var name = "WILKER LISBOA SOARES DA SILVA";
+
+var home = "ALAMEDA PEDRA NEGRA"
+
+document.write(name + '<br>');
+
+document.write(home + '<br>');
+
 
 
