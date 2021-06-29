@@ -7,5 +7,10 @@ num = 10;
 
 var num2 = 20;
 
+//Boolean 
+var verdadeiro = true;
+
+var falso = false;
+
 
 
