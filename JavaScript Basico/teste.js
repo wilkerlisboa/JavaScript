@@ -59,4 +59,6 @@ document.write(`SEU NOME E: ${nome}` + '<br>')
     
 document.write(`SUA IDADE E: ${age} ANOS `);
   
+
+//e
 //exercicio
